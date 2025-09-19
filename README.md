@@ -55,13 +55,8 @@ Dispositivos compatibles: Apple Watch Series 5 en adelante.
 
 
 🔒 Licencia
-
 Este proyecto es propietario.
-Todos los derechos reservados © 2025.
-No está permitido usar, copiar, modificar ni distribuir este software sin autorización expresa de la autora.
+Todos los derechos reservados ©krisgerald 2025.
 
 ## 👩‍💻 Autora
-Desarrollado por Kristel Villalta Porras.
-Desarroll
-ado por William Alberto Torres Moreira (Pocoloco115)
-Proyecto académico y personal con fines de aprendizaje y uso controlado.
+Desarrollado por Kristel Geraldine Villalta Porras (krisgerald).
