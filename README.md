@@ -20,7 +20,6 @@ Su meta es brindar una experiencia simple, útil y rápida para usuarios que nec
 
 **Bunny Math** busca ser un asistente matemático portátil que facilita la vida de estudiantes, profesionales y cualquier persona que necesite cálculos rápidos.  
 La app permite resolver operaciones básicas, complejas y conversiones de unidades sin depender del iPhone, todo desde la comodidad del Apple Watch.  
-El diseño está pensado para maximizar la usabilidad en pantallas pequeñas, ofreciendo botones claros, colores suaves y animaciones que hacen la experiencia más atractiva y educativa.  
 
 ---
 
