@@ -5,23 +5,58 @@ Su meta es brindar una experiencia simple, útil y rápida para usuarios que nec
 
 ---
 
-## ✨ Funcionalidades  
+## 📌 Índice
+- [📖 Descripción](#-descripción)
+- [✨ Funcionalidades  ](#-funcionalidades)
+- [📱 Interfaces de Usuario](#-interfaces-de-usuario)
+- [🔧 Tecnologías Usadas](#-tecnologías-usadas)
+- [🚀 Instalación](#-instalación)
+- [📱 Compatibilidad](#-compatiblidad)
+- [📌 Próximas mejoras](#-próximas-mejoras)
+- [👥 Equipo de Desarrollo](#-equipo-de-desarrollo)
+
+
+---
+## 📖 Descripción
+
+
+El propósito de **Bunny Math** es permitir a los usuarios realizar cálculos y conversiones directamente en su **Apple Watch**, sin necesidad de sacar el iPhone.  
+La app busca ser un aliado educativo y práctico en situaciones cotidianas y académicas.  
+
+---
+
+### 🎯 Funcionalidades principales:
 
 - 🌡️ **Conversor de temperatura**  
   Convierte entre **Celsius, Fahrenheit, Longitud, Peso, Tiempo y Kelvin** de manera instantánea.  
 
 - ➗ **Calculadora de Álgebra Lineal**  
-  Realiza operaciones de álgebra Linel:  
+  Realiza operaciones de álgebra lineal.  
 
 - 🔢 **Calculadora Normal**  
   Funcionalidad estándar para sumar, restar, multiplicar y dividir de forma rápida.  
 
 ---
 
-## 🎯 Objetivo del proyecto  
+## 📱 Interfaces de Usuario
 
-El propósito de **Bunny Math** es permitir a los usuarios realizar cálculos y conversiones directamente en su **Apple Watch**, sin necesidad de sacar el iPhone.  
-La app busca ser un aliado educativo y práctico en situaciones cotidianas y académicas.  
+La aplicación UAMCourses para la Universidad Americana (UAM) de Nicaragua permitirá a los administradores gestionar de manera eficiente la creación, lectura, actualización y eliminación de cursos. La interfaz contará con pantallas intuitivas y fáciles de usar:
+
+## Launcher/OnBoarding
+
+<p align="center">
+  <img src="Images/Onboarding.gif" alt="Mi Animación" width="300" heigth="400" />
+</p>
+
+
+---
+
+## Register
+
+<p align="center">
+  <img src="Images/Register.gif" alt="Visualizacion de registro de usuario" width="300" heigth="400" />
+</p>
+
 
 ---
 
@@ -32,31 +67,30 @@ La app busca ser un aliado educativo y práctico en situaciones cotidianas y aca
   - WatchKit (para desarrollo de apps en Apple Watch).  
   - SwiftUI (para la interfaz de usuario moderna y responsiva).  
 - **Entorno de desarrollo:** Xcode.  
-- **Plataforma:** iOS / watchOS.  
+- **Plataforma:** watchOS.  
 
 ---
 
-## 🚀 Instalación y uso  
+## 🚀 Instalación
 
 1. Puedes encontrarlo en la App Store: 
 
 ## 📱 Compatibilidad
 
-watchOS: 9 o superior.
+- watchOS: 9 o superior.
 
-Dispositivos compatibles: Apple Watch Series 5 en adelante.
+- Dispositivos compatibles: Apple Watch Series 5 en adelante.
 
 ## 📌 Próximas mejoras
 
-🎨 Animaciones temáticas inspiradas en la estética “Bunny”.
+- 🎨 Animaciones temáticas inspiradas en la estética “Bunny”.
 
-⌚ Complicaciones para la carátula del Apple Watch (acceso directo a funciones).
+- ⌚ Complicaciones para la carátula del Apple Watch (acceso directo a funciones)
 
+---
+## 👥 Equipo de Desarrollo
 
+- **Kristel Geraldine Villalta Porras ** - Desarrolladora FullStack / Diseñadora UI/UX  
+  Responsable de todo el desarrollo y diseño de **Bunny Math** 🐰📱  
 
-🔒 Licencia
-Este proyecto es propietario.
-Todos los derechos reservados ©krisgerald 2025.
-
-## 👩‍💻 Autora
-Desarrollado por Kristel Geraldine Villalta Porras (krisgerald).
+---
