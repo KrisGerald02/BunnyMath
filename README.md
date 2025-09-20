@@ -11,7 +11,6 @@ Su meta es brindar una experiencia simple, útil y rápida para usuarios que nec
 - [📱 Interfaces de Usuario](#-interfaces-de-usuario)
 - [🛠️ Tecnologías Utilizadas  ](#-tecnologías-utilizadas)
 - [🚀 Instalación](#-instalación)
-- [📱 Compatibilidad](#-compatibilidad)
 - [📌 Próximas mejoras](#-próximas-mejoras)
 - [👥 Equipo de Desarrollo](#-equipo-de-desarrollo)
 
@@ -74,12 +73,6 @@ La aplicación UAMCourses para la Universidad Americana (UAM) de Nicaragua permi
 ## 🚀 Instalación
 
 1. Puedes encontrarlo en la App Store: 
-
-## 📱 Compatibilidad
-
-- watchOS: 9 o superior.
-
-- Dispositivos compatibles: Apple Watch Series 5 en adelante.
 
 ## 📌 Próximas mejoras
 
