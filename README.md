@@ -18,28 +18,34 @@ Su meta es brindar una experiencia simple, útil y rápida para usuarios que nec
 ---
 ## 📖 Descripción
 
-
-El propósito de **Bunny Math** es permitir a los usuarios realizar cálculos y conversiones directamente en su **Apple Watch**, sin necesidad de sacar el iPhone.  
-La app busca ser un aliado educativo y práctico en situaciones cotidianas y académicas.  
+**Bunny Math** busca ser un asistente matemático portátil que facilita la vida de estudiantes, profesionales y cualquier persona que necesite cálculos rápidos.  
+La app permite resolver operaciones básicas, complejas y conversiones de unidades sin depender del iPhone, todo desde la comodidad del Apple Watch.  
+El diseño está pensado para maximizar la usabilidad en pantallas pequeñas, ofreciendo botones claros, colores suaves y animaciones que hacen la experiencia más atractiva y educativa.  
 
 ---
 
 ### 🎯 Funcionalidades Principales:
 
-- 🌡️ **Conversor de temperatura**  
-  Convierte entre **Celsius, Fahrenheit, Longitud, Peso, Tiempo y Kelvin** de manera instantánea.  
+- 🌡️ **Conversor de Temperatura y Unidades**  
+  Convierte entre **Celsius, Fahrenheit, Kelvin**, y también incluye conversiones de **Longitud, Peso, Tiempo y otras unidades básicas**.  
+  - Respuesta instantánea al ingresar valores.  
+  - Interfaz con selección rápida de unidades mediante menús desplegables o botones táctiles.  
 
 - ➗ **Calculadora de Álgebra Lineal**  
-  Realiza operaciones de álgebra lineal.  
+  Realiza operaciones como sumas, restas y multiplicaciones de matrices y vectores.  
+  - Capacidad de ingresar valores mediante un teclado optimizado para Apple Watch.  
+  - Visualización clara de resultados con formato matemático.  
 
 - 🔢 **Calculadora Normal**  
-  Funcionalidad estándar para sumar, restar, multiplicar y dividir de forma rápida.  
+  Calculadora clásica para **suma, resta, multiplicación y división**.  
+  - Diseño intuitivo con botones grandes y visibles.  
+  - Posibilidad de borrar y reiniciar operaciones.
 
 ---
 
 ## 📱 Interfaces de Usuario
 
-La aplicación UAMCourses para la Universidad Americana (UAM) de Nicaragua permitirá a los administradores gestionar de manera eficiente la creación, lectura, actualización y eliminación de cursos. La interfaz contará con pantallas intuitivas y fáciles de usar:
+La experiencia visual de **Bunny Math** está diseñada para ser **intuitiva y minimalista**, maximizando la usabilidad en la pequeña pantalla del Apple Watch:
 
 ## Launcher/OnBoarding
 
