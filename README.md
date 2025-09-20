@@ -9,9 +9,9 @@ Su meta es brindar una experiencia simple, útil y rápida para usuarios que nec
 - [📖 Descripción](#-descripción)
 - [🎯 Funcionalidades Principales ](#-funcionalidades-principales)
 - [📱 Interfaces de Usuario](#-interfaces-de-usuario)
-- [🔧 Tecnologías Usadas](#-tecnologías-usadas)
+- [🛠️ Tecnologías Utilizadas  ](#-tecnologías-utilizadas)
 - [🚀 Instalación](#-instalación)
-- [📱 Compatibilidad](#-compatiblidad)
+- [📱 Compatibilidad](#-compatibilidad)
 - [📌 Próximas mejoras](#-próximas-mejoras)
 - [👥 Equipo de Desarrollo](#-equipo-de-desarrollo)
 
@@ -60,7 +60,7 @@ La aplicación UAMCourses para la Universidad Americana (UAM) de Nicaragua permi
 
 ---
 
-## 🛠️ Tecnologías utilizadas  
+## 🛠️ Tecnologías Utilizadas  
 
 - **Lenguaje:** Swift  
 - **Frameworks:**  
