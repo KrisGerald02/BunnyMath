@@ -7,7 +7,7 @@ Su meta es brindar una experiencia simple, útil y rápida para usuarios que nec
 
 ## 📌 Índice
 - [📖 Descripción](#-descripción)
-- [✨ Funcionalidades  ](#-funcionalidades)
+- [🎯 Funcionalidades Principales ](#-funcionalidades-principales)
 - [📱 Interfaces de Usuario](#-interfaces-de-usuario)
 - [🔧 Tecnologías Usadas](#-tecnologías-usadas)
 - [🚀 Instalación](#-instalación)
@@ -25,7 +25,7 @@ La app busca ser un aliado educativo y práctico en situaciones cotidianas y aca
 
 ---
 
-### 🎯 Funcionalidades principales:
+### 🎯 Funcionalidades Principales:
 
 - 🌡️ **Conversor de temperatura**  
   Convierte entre **Celsius, Fahrenheit, Longitud, Peso, Tiempo y Kelvin** de manera instantánea.  
